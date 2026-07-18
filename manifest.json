@@ -1,0 +1,26 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.ultraface",
+  "name": "UltraFace",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "MIT",
+  "compat": ">=0.1",
+  "description": "Fast face bounding-box detection. Uses: privacy face-blur; face tracking; auto-reframe on faces; seeding face-ID.",
+  "author": "azphalt",
+  "homepage": "https://github.com/HereLiesAz/azphalt-ultraface",
+  "assets": [
+    {
+      "type": "onnx",
+      "path": "",
+      "role": "face-detection",
+      "remoteUrl": "https://github.com/HereLiesAz/azphalt-ultraface/releases/latest/download/version-RFB-320.onnx",
+      "modelLicense": "MIT (Ultra-Light-Fast-Generic-Face-Detector-1MB)",
+      "tags": [
+        "face-detection",
+        "image"
+      ]
+    }
+  ],
+  "files": {}
+}
