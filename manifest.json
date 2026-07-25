@@ -6,8 +6,8 @@
   "kind": "asset",
   "license": "MIT",
   "compat": ">=0.1",
-  "description": "Fast face bounding-box detection. Uses: privacy face-blur; face tracking; auto-reframe on faces; seeding face-ID.",
   "author": "azphalt",
+  "description": "Fast face bounding-box detection. Uses: privacy face-blur; face tracking; auto-reframe on faces; seeding face-ID.",
   "homepage": "https://github.com/HereLiesAz/azphalt-ultraface",
   "assets": [
     {
@@ -21,6 +21,5 @@
         "image"
       ]
     }
-  ],
-  "files": {}
+  ]
 }
