@@ -1,15 +1,14 @@
-UltraFace — third-party model attribution
+UltraFace — third-party attribution
 
-This package's own manifest and build tooling are MIT (see LICENSE).
+Model weights distributed or referenced by this package are NOT the work of
+HereLiesAz and are not licensed by HereLiesAz.
 
-The model weights this extension distributes are NOT covered by that licence.
-They are the work of their respective authors and remain under their own terms:
-
-- face-detection: MIT (Ultra-Light-Fast-Generic-Face-Detector-1MB)
+Declared upstream terms:
+  - face-detection: MIT (Ultra-Light-Fast-Generic-Face-Detector-1MB)
 
 Retrieved from:
-  https://huggingface.co/onnx-community/ultraface-version-RFB-320/resolve/main/version-RFB-320.onnx
+  https://huggingface.co/onnx-community/ultraface-version-RFB-320
 
-Redistribution of those weights is subject to the terms above, including any
-attribution and notice requirements. Consult each upstream project for the
-authoritative licence text before redistributing.
+The upstream repository declares no licence. Redistribution terms are therefore
+unknown, and re-hosting these weights may not be permitted. Resolve this with the
+creators before distributing.

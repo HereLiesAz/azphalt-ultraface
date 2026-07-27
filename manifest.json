@@ -4,7 +4,7 @@
   "name": "UltraFace",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Upstream-Unstated",
   "compat": ">=0.1",
   "description": "Fast face bounding-box detection. Uses: privacy face-blur; face tracking; auto-reframe on faces; seeding face-ID.",
   "author": "HereLiesAz",
